@@ -9,7 +9,7 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 | :--- | :--- | :--- |
 | **Dart / Flutter** | My main language right now | Provider, SharedPreferences, SOLID, Repository Pattern, Dependency Injection, Firebase Auth, Firestore |
 | **HTML&CSS** | Beginner-intermediate level experience in creating responsive web layouts | Bootstrap, Tailwind CSS |
-| **Python + C++** | Basic experience, used for academic purposes | Standard Library only |
+| **Python and C++** | Basic experience, used for academic purposes | Standard Library only |
 
 
 <h2>🚀 Projects</h2>
@@ -22,7 +22,6 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 - 🏗️ **Flutter Internals** — Deep dive into the Engine, Layer Trees, and Rendering pipeline.
 - 📡 **Data Communication & APIs** — Learning RESTful architectural styles and GraphQL integrating using **Dio**.
 - ⚡ **Real-time Systems** — Exploring WebSockets for bi-directional, low-latency communication in Flutter apps.
-- 
 
 <h2>📫 Links</h2>
 
