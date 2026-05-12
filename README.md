@@ -5,11 +5,11 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 
 <h2>🛠️ Developer Skills</h2>
 
-| Language | Experience | Technologies |
+| Language | Status | Technologies |
 | :--- | :--- | :--- |
 | **Dart / Flutter** | My main language right now | Provider, SharedPreferences, SOLID, Repository Pattern, Dependency Injection, Firebase Auth, Firestore |
 | **HTML&CSS** | Beginner-intermediate level experience in creating responsive web layouts | Bootstrap, Tailwind CSS |
-| **Python** | Basic experience, used for academic purposes | Standard Library only |
+| **Python + C++** | Basic experience, used for academic purposes | Standard Library only |
 
 
 <h2>🚀 Projects</h2>
@@ -20,8 +20,9 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 <h2> 📚 Currently Learning </h2>
 
 - 🏗️ **Flutter Internals** — Deep dive into the Engine, Layer Trees, and Rendering pipeline.
-- ☁️ **Firebase Ecosystem** — Mastering Auth, Firestore, and Cloud Functions.
-- 🌐 **Advanced Networking** — Complex REST API integrations and Dio best practices.
+- 📡 **Data Communication & APIs** — Learning RESTful architectural styles and GraphQL integrating using **Dio**.
+- ⚡ **Real-time Systems** — Exploring WebSockets for bi-directional, low-latency communication in Flutter apps.
+- 
 
 <h2>📫 Links</h2>
 
