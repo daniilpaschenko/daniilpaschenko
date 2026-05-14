@@ -1,16 +1,17 @@
 <h1>Hi there, I'm Daniil 👋</h1>
 
-<p>I'm a Flutter enthusiast exploring the intersection of clean code and high-performance mobile UI 📱<br>
+<p>I'm a passionate Flutter developer on the journey to becoming a <strong>Full-Stack Mobile Developer</strong>📱<br>
 Currently building my portfolio and learning new technologies every day 🙂</p>
 
 <h2>🛠️ Developer Skills</h2>
 
-| Language | Status | Technologies |
-| :--- | :--- | :--- |
-| **Dart / Flutter** | My main language right now | Provider, SharedPreferences, SOLID, Repository Pattern, Dependency Injection, Firebase Auth, Firestore |
-| **HTML&CSS** | Beginner-intermediate level experience in creating responsive web layouts | Bootstrap, Tailwind CSS |
-| **Python and C++** | Basic experience, used for academic purposes | Standard Library only |
-
+| Language / Tech          | Status                | Level          | Main Technologies |
+|--------------------------|-----------------------|----------------|-------------------|
+| **Dart / Flutter**       | Actively developing   | Junior         | Provider, SharedPreferences, SOLID, Repository Pattern, DШ, Firebase Auth, Firestore |
+| **JavaScript / Node.js** | Actively learning     | Beginner       | *Express.js (in progress)*, REST API, Async/Await |
+| **HTML & CSS**           | Intermediate          | Intermediate   | Tailwind CSS, Bootstrap, Responsive Design |
+| **Python**               | Basic                 | Academic       | Algorithms |
+| **C++**                  | Basic                 | Foundational   | Algorithms, OOP Basics |
 
 <h2>🚀 Projects</h2>
 
