@@ -3,15 +3,28 @@
 <p>I'm a passionate Flutter developer on the journey to becoming a <strong>Full-Stack Mobile Developer</strong>📱<br>
 Currently building my portfolio and learning new technologies every day 🙂</p>
 
-<h2>🛠️ Developer Skills</h2>
+<h2>🛠️ Tech Stack</h2>
 
-| Language / Tech          | Status                | Level          | Main Technologies |
-|--------------------------|-----------------------|----------------|-------------------|
-| **Dart / Flutter**       | Actively developing   | Junior         | Provider, SharedPreferences, SOLID, Repository Pattern, DШ, Firebase Auth, Firestore |
-| **JavaScript / Node.js** | Actively learning     | Beginner       | *Express.js (in progress)*, REST API, Async/Await |
-| **HTML & CSS**           | Intermediate          | Intermediate   | Tailwind CSS, Bootstrap, Responsive Design |
-| **Python**               | Basic                 | Academic       | Algorithms |
-| **C++**                  | Basic                 | Foundational   | Algorithms, OOP Basics |
+| Language / Tech      | Level        | Main Stack              |
+| -------------------- | ------------ | ----------------------- |
+| Dart + Flutter       | Junior       | Provider, Firebase, Dio |
+| Node.js + Express.js | Beginner     | REST APIs, Express      |
+| HTML & CSS           | Intermediate | Tailwind, Bootstrap     |
+| Python               | Basic        | Algorithms              |
+| C++                  | Basic        | OOP, Algorithms         |
+
+
+<h2>🧠 Engineering Concepts</h2>
+
+- SOLID Principles
+- Repository Pattern
+- REST API
+- Async/Await
+- Client-Server Architecture
+- State Management (Provider)
+- Responsive UI
+- Local Storage
+
 
 <h2>🚀 Projects</h2>
 
