@@ -8,7 +8,7 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 | Language / Tech      | Level        | Main Stack              |
 | -------------------- | ------------ | ----------------------- |
 | Dart + Flutter       | Junior       | Provider, Firebase, Dio |
-| Node.js + Express.js | Beginner     | REST APIs, Express      |
+| Node.js + Express.js | Beginner     | REST APIs,              |
 | HTML & CSS           | Intermediate | Tailwind, Bootstrap     |
 | Python               | Basic        | Algorithms              |
 | C++                  | Basic        | OOP, Algorithms         |
