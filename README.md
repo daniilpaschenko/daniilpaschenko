@@ -1,3 +1,5 @@
+**[Читать на русском](README.ru.md)**
+
 <h1>Hi there, I'm Daniil 👋</h1>
 
 <p>I'm a passionate Flutter developer on the journey to becoming a <strong>Full-Stack Mobile Developer</strong>📱<br>
@@ -8,7 +10,7 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 | Language / Tech      | Level        | Main Stack              |
 | -------------------- | ------------ | ----------------------- |
 | Dart + Flutter       | Junior       | Provider, Firebase, Dio |
-| Node.js + Express.js | Beginner     | REST APIs,              |
+| Node.js + Express.js | Beginner     | REST APIs, JWT          |
 | HTML & CSS           | Intermediate | Tailwind, Bootstrap     |
 | Python               | Basic        | Algorithms              |
 | C++                  | Basic        | OOP, Algorithms         |
