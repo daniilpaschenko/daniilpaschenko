@@ -7,18 +7,19 @@
 
 <h2>🛠️ Технологический стек</h2>
 
-| Язык / Технология     | Уровень      | Основной стек                  |
-|-----------------------|--------------|--------------------------------|
-| Dart + Flutter        | Junior       | Provider, Firebase, Dio        |
-| Node.js + Express.js  | Beginner     | REST APIs, JWT                 |
-| HTML & CSS            | Intermediate | Tailwind, Bootstrap            |
-| Python                | Basic        | Алгоритмы                      |
-| C++                   | Basic        | OOP, Алгоритмы                 |
+| Язык / Технология    | Уровень      | Основной стек                           |
+| -------------------- | ------------ | --------------------------------------- |
+| Dart + Flutter       | Junior       | Provider, Firebase, Dio                 |
+| Node.js + Express.js | Beginner     | REST APIs, JWT, MongoDB (Mongoose), Joi |
+| HTML & CSS           | Intermediate | Tailwind, Bootstrap                     |
+| Python               | Basic        | Алгоритмы                               |
+| C++                  | Basic        | OOP, Алгоритмы                          | 
 
 <h2>🧠 Инженерные концепции</h2>
 
 - SOLID Principles
 - Repository Pattern
+- Dependency Injection (get_it, injectable)
 - REST API
 - Async/Await
 - Client-Server Architecture
