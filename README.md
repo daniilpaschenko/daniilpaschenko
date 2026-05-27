@@ -7,19 +7,20 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 
 <h2>🛠️ Tech Stack</h2>
 
-| Language / Tech      | Level        | Main Stack              |
-| -------------------- | ------------ | ----------------------- |
-| Dart + Flutter       | Junior       | Provider, Firebase, Dio |
-| Node.js + Express.js | Beginner     | REST APIs, JWT          |
-| HTML & CSS           | Intermediate | Tailwind, Bootstrap     |
-| Python               | Basic        | Algorithms              |
-| C++                  | Basic        | OOP, Algorithms         |
+| Language / Tech      | Level        | Main Stack                              |
+| -------------------- | ------------ | --------------------------------------- |
+| Dart + Flutter       | Junior       | Provider, Firebase, Dio                 |
+| Node.js + Express.js | Beginner     | REST APIs, JWT, MongoDB (Mongoose), Joi |
+| HTML & CSS           | Intermediate | Tailwind, Bootstrap                     |
+| Python               | Basic        | Algorithms                              |
+| C++                  | Basic        | OOP, Algorithms                         | 
 
 
 <h2>🧠 Engineering Concepts</h2>
 
 - SOLID Principles
 - Repository Pattern
+- Dependency Injection (get_it, injectable)
 - REST API
 - Async/Await
 - Client-Server Architecture
