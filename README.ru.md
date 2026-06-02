@@ -17,6 +17,7 @@
 
 <h2>🧠 Инженерные концепции</h2>
 
+- Clean Architecture
 - SOLID Principles
 - Repository Pattern
 - Dependency Injection (get_it, injectable)
