@@ -18,6 +18,7 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 
 <h2>🧠 Engineering Concepts</h2>
 
+- Clean Architecture
 - SOLID Principles
 - Repository Pattern
 - Dependency Injection (get_it, injectable)
