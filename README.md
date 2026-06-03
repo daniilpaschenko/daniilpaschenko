@@ -32,7 +32,7 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 
 <h2>🚀 Projects</h2>
 
-**Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water)** — mobile app for tracking daily water intake. Built with Flutter, Provider state management and Repository Pattern. Features: adaptive UI, local storage, weekly history calendar and custom water containers. 
+**Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water)** — mobile app for tracking daily water intake. Clean Architecture, Provider, Firebase
 
 
 <h2> 📚 Currently Learning </h2>
