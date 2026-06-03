@@ -30,9 +30,7 @@
 
 <h2>🚀 Проекты</h2>
 
-**Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water)** — мобильное приложение для отслеживания ежедневного потребления воды.  
-Разработано на Flutter с использованием Provider и Repository Pattern.  
-**Функционал:** адаптивный интерфейс, локальное хранилище, календарь истории за неделю и кастомные контейнеры для воды.
+**Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water)** — мобильное приложение для отслеживания ежедневного потребления воды. Clean Architecture, Provider, Firebase
 
 <h2>📚 Сейчас изучаю</h2>
 
