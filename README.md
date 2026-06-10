@@ -10,7 +10,7 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 | Language / Tech      | Level        | Main Stack                              |
 | -------------------- | ------------ | --------------------------------------- |
 | Dart + Flutter       | Junior       | Provider, Firebase, Dio                 |
-| Node.js + Express.js | Beginner     | REST APIs, JWT, MongoDB (Mongoose), Joi |
+| Node.js + Express.js | Beginner     | REST APIs, MongoDB (Mongoose), Supabase, JWT, Joi, Multer |
 | HTML & CSS           | Intermediate | Tailwind, Bootstrap                     |
 | Python               | Basic        | Algorithms                              |
 | C++                  | Basic        | OOP, Algorithms                         | 
