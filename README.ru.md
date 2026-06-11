@@ -30,7 +30,7 @@
 
 <h2>🚀 Проекты</h2>
 
-**Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water)** — мобильное приложение для отслеживания ежедневного потребления воды. Clean Architecture, Provider, Firebase
+**Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water/blob/main/README.ru.md)** — мобильное приложение для отслеживания ежедневного потребления воды. Clean Architecture, Provider, Firebase
 
 
 <h2>📫 Контакты</h2>
