@@ -13,20 +13,20 @@
 | Node.js + Express.js | Beginner     | REST APIs, MongoDB (Mongoose), Supabase, JWT, Joi, Multer |
 | HTML & CSS           | Intermediate | Tailwind, Bootstrap                     |
 | Python               | Basic        | Алгоритмы                               |
-| C++                  | Basic        | OOP, Алгоритмы                          | 
+| C++                  | Basic        | ООП, Алгоритмы                          | 
 
 <h2>🧠 Инженерные концепции</h2>
 
-- Clean Architecture
-- SOLID Principles
-- Repository Pattern
-- Dependency Injection (get_it, injectable)
-- REST API
-- Async/Await
-- Client-Server Architecture
-- State Management (Provider)
-- Responsive UI
-- Local Storage
+- Чистая Аритектура
+- 5 Принципов уникального дизайна (SOLID)
+- Паттерн Репозиториев
+- Внедрение зависимостей (get_it, injectable)
+- Архитектура REST API
+- Асинхронность
+- Архитектура Клиент-Сервер
+- Управление Состоянием (Provider)
+- Адаптивный Пользовательский Интерфейс
+- Локальное Хранилище
 
 <h2>🚀 Проекты</h2>
 
