@@ -35,12 +35,6 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 **Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water)** — mobile app for tracking daily water intake. Clean Architecture, Provider, Firebase
 
 
-<h2> 📚 Currently Learning </h2>
-
-- 🏗️ **Flutter Internals** — Deep dive into the Engine, Layer Trees, and Rendering pipeline.
-- 📡 **Data Communication & APIs** — Learning RESTful architectural styles and GraphQL integrating using **Dio**.
-- ⚡ **Real-time Systems** — Exploring WebSockets for bi-directional, low-latency communication in Flutter apps.
-
 <h2>📫 Links</h2>
 
 <p>Telegram: <a href="https://t.me/daniil_paschenko">@daniil_paschenko</a></p>
