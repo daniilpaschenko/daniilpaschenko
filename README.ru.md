@@ -32,11 +32,6 @@
 
 **Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water)** — мобильное приложение для отслеживания ежедневного потребления воды. Clean Architecture, Provider, Firebase
 
-<h2>📚 Сейчас изучаю</h2>
-
-- 🏗️ **Flutter Internals** — глубокое погружение в Engine, Layer Trees и Rendering pipeline.
-- 📡 **Работа с данными и API** — изучение RESTful архитектуры и GraphQL, интеграция через **Dio**.
-- ⚡ **Real-time системы** — изучение WebSockets для двунаправленной связи с низкой задержкой в Flutter-приложениях.
 
 <h2>📫 Контакты</h2>
 
