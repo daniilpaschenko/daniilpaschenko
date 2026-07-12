@@ -5,28 +5,26 @@
 <p>Я увлечённый Flutter-разработчик на пути к становлению <strong>Full-Stack Mobile Developer</strong>📱<br>
 Сейчас активно развиваю портфолио и каждый день изучаю новые технологии 🙂</p>
 
-<h2>🛠️ Технологический стек</h2>
+<h2>🛠️ Технологический Стек</h2>
 
 | Язык / Технология    | Уровень      | Основной стек                           |
 | -------------------- | ------------ | --------------------------------------- |
-| Dart + Flutter       | Junior       | Provider, Firebase, Dio                 |
-| Node.js + Express.js | Beginner     | REST APIs, MongoDB (Mongoose), Supabase, JWT, Joi, Multer |
-| HTML & CSS           | Intermediate | Tailwind, Bootstrap                     |
-| Python               | Basic        | Алгоритмы                               |
-| C++                  | Basic        | ООП, Алгоритмы                          | 
+| Dart + Flutter       | Junior+      | BLoC, Clean Architecture, Dio, Hive, Firebase, go_router |
+| Node.js + Express.js | Junior       | MongoDB, Supabase, JWT, Joi, Multer |
+| HTML & CSS           | Intermediate | Tailwind, Bootstrap  |
 
-<h2>🧠 Инженерные концепции</h2>
+<h2>💡 Технические Навыки</h2>
 
-- Чистая Аритектура
-- 5 Принципов уникального дизайна (SOLID)
-- Паттерн Репозиториев
+- Чистая Архитектура, SOLID, Паттерн Репозиториев, Архитектура Клиент–Сервер
 - Внедрение зависимостей (get_it, injectable)
-- Архитектура REST API
-- Асинхронность
-- Архитектура Клиент-Сервер
-- Управление Состоянием (Provider)
-- Адаптивный Пользовательский Интерфейс
-- Локальное Хранилище
+- Управление Состоянием (BLoC, Provider)
+- Навигация (go_router)
+- Работа с сетью (REST, Dio)
+- Локальное Хранилище (Hive, SharedPreferences)
+- Облачные & Серверные Сервисы (Firebase, MongoDB, Supabase)
+- Разработка Cерверной Части (JWT, Joi, Multer)
+- Кэширование (Redis)
+- Инструменты Разработки (Docker, Git)
 
 <h2>🚀 Проекты</h2>
 
