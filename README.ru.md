@@ -15,7 +15,9 @@
 
 <h2>💡 Технические Навыки</h2>
 
-- Чистая Архитектура, SOLID, Паттерн Репозиториев, Архитектура Клиент–Сервер
+- Архитектура (Clean Architecture, Client–Server Architecture)
+- Паттерны проектирования (Repository Pattern)
+- Принципы проектирования (SOLID, KISS, DRY)
 - Внедрение зависимостей (get_it, injectable)
 - Управление Состоянием (BLoC, Provider)
 - Навигация (go_router)
