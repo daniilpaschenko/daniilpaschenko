@@ -19,7 +19,7 @@
 - Внедрение зависимостей (get_it, injectable)
 - Управление Состоянием (BLoC, Provider)
 - Навигация (go_router)
-- Работа с сетью (REST, Dio)
+- Работа с сетью (REST, WebSockets, Dio)
 - Локальное Хранилище (Hive, SharedPreferences)
 - Облачные & Серверные Сервисы (Firebase, MongoDB, Supabase)
 - Разработка Cерверной Части (JWT, Joi, Multer)
@@ -28,7 +28,7 @@
 
 <h2>🚀 Проекты</h2>
 
-**Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water/blob/main/README.ru.md)** — мобильное приложение для отслеживания ежедневного потребления воды. Clean Architecture, Provider, Firebase
+**Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water/blob/main/README.ru.md)** — мобильное приложение для отслеживания ежедневного потребления воды. Clean Architecture, Provider, Firebase, SharedPreferences
 
 
 <h2>📫 Контакты</h2>
