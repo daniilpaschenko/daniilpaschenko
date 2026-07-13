@@ -16,7 +16,9 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 
 <h2>💡 Technical Skills</h2>
 
-- Clean Architecture, SOLID, Repository Pattern, Client–Server Architecture
+- Architecture (Clean Architecture, Client–Server Architecture)
+- Design Patterns (Repository Pattern)
+- Design Principles (SOLID, KISS, DRY)
 - Dependency Injection (get_it, injectable)
 - State Management (BLoC, Provider)
 - Navigation (go_router)
