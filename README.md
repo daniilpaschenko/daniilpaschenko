@@ -20,7 +20,7 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 - Dependency Injection (get_it, injectable)
 - State Management (BLoC, Provider)
 - Navigation (go_router)
-- Networking (REST, Dio)
+- Networking (REST, WebSockets, Dio)
 - Local Storage (Hive, SharedPreferences)
 - Cloud & Backend Services (Firebase, MongoDB, Supabase)
 - Backend Development (JWT, Joi, Multer)
@@ -30,7 +30,7 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 
 <h2>🚀 Projects</h2>
 
-**Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water)** — mobile app for tracking daily water intake. Clean Architecture, Provider, Firebase
+**Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water)** — mobile app for tracking daily water intake. Clean Architecture, Provider, Firebase, SharedPreferences
 
 
 <h2>📫 Links</h2>
