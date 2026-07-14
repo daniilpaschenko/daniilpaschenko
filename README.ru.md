@@ -31,6 +31,7 @@
 <h2>🚀 Проекты</h2>
 
 **Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water/blob/main/README.ru.md)** — мобильное приложение для отслеживания ежедневного потребления воды. Clean Architecture, Provider, Firebase, SharedPreferences
+**Flutter** **[MobiQuest](https://github.com/daniilpaschenko/mobiquest)** — мобильное приложение, помогающее Flutter-разработчикам изучать и закреплять знания с помощью коротких тематических тестов и краткой теории. Clean Architecture, BLoC, Hive, Dio
 
 
 <h2>📫 Контакты</h2>
