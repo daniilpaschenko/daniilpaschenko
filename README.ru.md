@@ -10,24 +10,21 @@
 | Язык / Технология    | Уровень      | Основной стек                           |
 | -------------------- | ------------ | --------------------------------------- |
 | Dart + Flutter       | Junior+      | BLoC, Clean Architecture, Dio, Hive, Firebase, go_router |
-| Node.js + Express.js | Junior       | MongoDB, Supabase, JWT, Joi, Multer |
 | HTML & CSS           | Intermediate | Tailwind, Bootstrap  |
 
 <h2>💡 Технические Навыки</h2>
 
-- Архитектура (Clean Architecture, Client–Server Architecture)
-- Паттерны проектирования (Repository Pattern)
-- Принципы проектирования (SOLID, KISS, DRY)
-- Внедрение зависимостей (get_it, injectable)
-- Управление Состоянием (BLoC, Provider)
-- Навигация (go_router)
-- Работа с сетью (REST, WebSockets, Dio)
-- Локальное Хранилище (Hive, SharedPreferences)
-- Облачные & Серверные Сервисы (Firebase, MongoDB, Supabase)
-- Разработка Cерверной Части (JWT, Joi, Multer)
-- Кэширование (Redis)
-- Инструменты Разработки (Docker, Git)
-
+- Архитектура: Clean Architecture, Client–Server Architecture
+- Паттерны проектирования: Repository Pattern
+- Принципы проектирования: SOLID, KISS, DRY
+- Внедрение зависимостей: get_it, injectable
+- Управление состоянием: BLoC, Provider
+- Навигация: go_router
+- Работа с сетью: REST, WebSockets, Dio
+- Локальное Хранилище: Hive, SharedPreferences
+- Интеграция с облаком и серверной частью: Firebase, Supabase,
+автономный хостинг Node.js серверная часть (JWT, Joi, Multer, MongoDB, Redis)
+  
 <h2>🚀 Проекты</h2>
 
 **Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water/blob/main/README.ru.md)** — мобильное приложение для отслеживания ежедневного потребления воды. Clean Architecture, Provider, Firebase, SharedPreferences
