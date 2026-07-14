@@ -10,24 +10,21 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 | Language / Tech      | Level        | Main Stack                              |
 | -------------------- | ------------ | --------------------------------------- |
 | Dart + Flutter       | Junior+      | BLoC, Clean Architecture, Dio, Hive, Firebase, go_router |
-| Node.js + Express.js | Junior       | MongoDB, Supabase, JWT, Joi, Multer |
 | HTML & CSS           | Intermediate | Tailwind, Bootstrap |
 
 
 <h2>💡 Technical Skills</h2>
 
-- Architecture (Clean Architecture, Client–Server Architecture)
-- Design Patterns (Repository Pattern)
-- Design Principles (SOLID, KISS, DRY)
-- Dependency Injection (get_it, injectable)
-- State Management (BLoC, Provider)
-- Navigation (go_router)
-- Networking (REST, WebSockets, Dio)
-- Local Storage (Hive, SharedPreferences)
-- Cloud & Backend Services (Firebase, MongoDB, Supabase)
-- Backend Development (JWT, Joi, Multer)
-- Caching (Redis)
-- Development Tools (Docker, Git)
+- Architecture: Clean Architecture, Client–Server Architecture
+- Design Patterns: Repository Pattern
+- Design Principles: SOLID, KISS, DRY
+- Dependency Injection: get_it, injectable
+- State Management: BLoC, Provider
+- Navigation: go_router
+- Networking: REST, WebSockets, Dio
+- Local Storage: Hive, SharedPreferences
+- Cloud & Backend Integration: Firebase, Supabase, 
+  self-hosted Node.js backend (JWT, Joi, Multer, MongoDB, Redis)
 
 
 <h2>🚀 Projects</h2>
