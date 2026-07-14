@@ -33,6 +33,7 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 <h2>🚀 Projects</h2>
 
 **Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water)** — mobile app for tracking daily water intake. Clean Architecture, Provider, Firebase, SharedPreferences
+
 **Flutter** **[MobiQuest](https://github.com/daniilpaschenko/mobiquest)** — mobile app that helps Flutter developers learn and reinforce their knowledge through short topic-based quizzes and concise theory summaries. Clean Architecture, BLoC, Hive, Dio
 
 <h2>📫 Links</h2>
