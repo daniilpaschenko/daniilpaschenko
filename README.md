@@ -2,7 +2,7 @@
 
 <h1>Hi there, I'm Daniil 👋</h1>
 
-<p>I'm a passionate Flutter developer on the journey to becoming a <strong>Full-Stack Mobile Developer</strong>📱<br>
+<p>I'm a passionate Flutter developer continuously improving my skills and building cross-platform mobile applications 📱<br>
 Currently building my portfolio and learning new technologies every day 🙂</p>
 
 <h2>🛠️ Tech Stack</h2>
