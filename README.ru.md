@@ -9,7 +9,7 @@
 
 | Язык / Технология    | Уровень      | Основной стек                           |
 | -------------------- | ------------ | --------------------------------------- |
-| Dart + Flutter       | Junior+      | BLoC, Clean Architecture, Dio, Hive, Firebase, go_router |
+| Dart + Flutter       | Junior+      | BLoC, Clean Architecture, Dio, Hive, MongoDB, go_router |
 | HTML & CSS           | Intermediate | Tailwind, Bootstrap  |
 
 <h2>💡 Технические Навыки</h2>
@@ -22,6 +22,7 @@
 - Навигация: go_router
 - Работа с сетью: REST, WebSockets, Dio
 - Локальное Хранилище: Hive, SharedPreferences
+- Безопасное Хранилище: Flutter Secure Storage
 - Интеграция с облаком и серверной частью: Firebase, Supabase,
 автономный хостинг Node.js серверная часть (JWT, Joi, Multer, MongoDB, Redis)
   
