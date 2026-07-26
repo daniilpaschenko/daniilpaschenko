@@ -9,7 +9,7 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 
 | Language / Tech      | Level        | Main Stack                              |
 | -------------------- | ------------ | --------------------------------------- |
-| Dart + Flutter       | Junior+      | BLoC, Clean Architecture, Dio, Hive, Firebase, go_router |
+| Dart + Flutter       | Junior+      | BLoC, Clean Architecture, Dio, Hive, MongoDB, go_router |
 | HTML & CSS           | Intermediate | Tailwind, Bootstrap |
 
 
@@ -23,6 +23,7 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 - Navigation: go_router
 - Networking: REST, WebSockets, Dio
 - Local Storage: Hive, SharedPreferences
+- Secure Storage: Flutter Secure Storage
 - Cloud & Backend Integration: Firebase, Supabase, 
   self-hosted Node.js backend (JWT, Joi, Multer, MongoDB, Redis)
 
