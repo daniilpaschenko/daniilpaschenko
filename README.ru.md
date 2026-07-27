@@ -23,6 +23,7 @@
 - Работа с сетью: REST, WebSockets, Dio
 - Локальное Хранилище: Hive, SharedPreferences
 - Безопасное Хранилище: Flutter Secure Storage
+- Генерация Кода: build_runner, freezed, json_serializable
 - Интеграция с облаком и серверной частью: Firebase, Supabase,
 автономный хостинг Node.js серверная часть (JWT, Joi, Multer, MongoDB, Redis)
   
