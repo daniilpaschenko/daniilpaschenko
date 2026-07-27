@@ -24,6 +24,7 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 - Networking: REST, WebSockets, Dio
 - Local Storage: Hive, SharedPreferences
 - Secure Storage: Flutter Secure Storage
+- Code Generation: build_runner, freezed, json_serializable
 - Cloud & Backend Integration: Firebase, Supabase, 
   self-hosted Node.js backend (JWT, Joi, Multer, MongoDB, Redis)
 
