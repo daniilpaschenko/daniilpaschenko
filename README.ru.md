@@ -7,10 +7,7 @@
 
 <h2>🛠️ Технологический Стек</h2>
 
-| Язык / Технология    | Уровень      | Основной стек                           |
-| -------------------- | ------------ | --------------------------------------- |
-| Dart + Flutter       | Junior+      | BLoC, Clean Architecture, Dio, Hive, MongoDB, go_router |
-| HTML & CSS           | Intermediate | Tailwind, Bootstrap  |
+**Flutter/Dart:** BLoC • Clean Architecture • Dio • Hive • MongoDB • go_router • get_it • injectable • freezed • json_serializable
 
 <h2>💡 Технические Навыки</h2>
 
