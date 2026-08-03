@@ -5,12 +5,9 @@
 <p>I'm a passionate Flutter developer continuously improving my skills and building cross-platform mobile applications 📱<br>
 Currently building my portfolio and learning new technologies every day 🙂</p>
 
-<h2>🛠️ Tech Stack</h2>
+<h2> 🛠️ Tech Stack </h2>
 
-| Language / Tech      | Level        | Main Stack                              |
-| -------------------- | ------------ | --------------------------------------- |
-| Dart + Flutter       | Junior+      | BLoC, Clean Architecture, Dio, Hive, MongoDB, go_router |
-| HTML & CSS           | Intermediate | Tailwind, Bootstrap |
+**Flutter/Dart:** BLoC • Clean Architecture • Dio • Hive • MongoDB • go_router • get_it • injectable • freezed • json_serializable
 
 
 <h2>💡 Technical Skills</h2>
