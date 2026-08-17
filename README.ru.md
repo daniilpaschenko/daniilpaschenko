@@ -2,33 +2,44 @@
 
 <h1>Привет, я Даниил 👋</h1>
 
-<p>Я увлеченный Flutter-разработчик, постоянно совершенствующий свои навыки и создающий кроссплатформенные мобильные приложения 📱<br>
+<p>Я увлеченный Flutter-разработчик, постоянно совершенствующий свои навыки и создающий кроссплатформенные приложения 📱<br>
 Сейчас активно развиваю портфолио и каждый день изучаю новые технологии 🙂</p>
 
 <h2>🛠️ Технологический Стек</h2>
 
-**Flutter/Dart:** BLoC • Clean Architecture • Dio • Hive • MongoDB • go_router • get_it • injectable • freezed • json_serializable
+### 📱 Frontend
+**Flutter/Dart:** BLoC • Clean Architecture • Dio • Hive • go_router • get_it • injectable • freezed • json_serializable
+
+### 🖥️ Backend
+**Node.js/Express:** MongoDB/Mongoose • JWT • Joi • Multer • Socket.IO
+
+### ☁️ Облачные сервисы
+**Firebase:** Authentication • Cloud Messaging • Firebase services
 
 <h2>💡 Технические Навыки</h2>
 
-- Архитектура: Clean Architecture, Client–Server Architecture
-- Паттерны проектирования: Repository Pattern
-- Принципы проектирования: SOLID, KISS, DRY
-- Внедрение зависимостей: get_it, injectable
-- Управление состоянием: BLoC, Provider
-- Навигация: go_router
-- Работа с сетью: REST, WebSockets, Dio
-- Локальное Хранилище: Hive, SharedPreferences
-- Безопасное Хранилище: Flutter Secure Storage
-- Генерация Кода: build_runner, freezed, json_serializable
-- Интеграция с облаком и серверной частью: Firebase, Supabase,
-автономный хостинг Node.js серверная часть (JWT, Joi, Multer, MongoDB, Redis)
+- **Архитектура:** Clean Architecture, Client–Server Architecture
+- **Паттерны проектирования:** Repository Pattern
+- **Принципы разработки:** SOLID, KISS, DRY
+- **Управление состоянием:** BLoC, Provider
+- **Внедрение зависимостей:** get_it, injectable
+- **Навигация:** go_router
+- **Сетевое взаимодействие:** REST API, WebSockets, Dio
+- **Работа в реальном времени:** Socket.IO
+- **Локальное хранение:** Hive, SharedPreferences
+- **Безопасное хранение:** Flutter Secure Storage
+- **Backend:** Node.js, Express, MongoDB/Mongoose
+- **Аутентификация:** JWT, Firebase Authentication
+- **Генерация кода:** build_runner, freezed, json_serializable
+- **Уведомления:** Firebase Cloud Messaging, Local Notifications
   
 <h2>🚀 Проекты</h2>
 
-**Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water/blob/main/README.ru.md)** — мобильное приложение для отслеживания ежедневного потребления воды. Clean Architecture, Provider, Firebase, SharedPreferences
+**Flutter+Node.js** **[DAN](https://github.com/daniilpaschenko/dan-chat)** — приложение для обмена сообщениями в реальном времени с личными и групповыми чатами, статусами пользователей, индикаторами набора сообщения, push-уведомлениями и управлением группами. Clean Architecture, BLoC, Socket.IO, Node.js, MongoDB, Firebase
 
 **Flutter** **[MobiQuest](https://github.com/daniilpaschenko/mobiquest)** — мобильное приложение, помогающее Flutter-разработчикам изучать и закреплять знания с помощью коротких тематических тестов и краткой теории. Clean Architecture, BLoC, Hive, Dio
+
+**Flutter** **[Drink Water](https://github.com/daniilpaschenko/drink-water/blob/main/README.ru.md)** — мобильное приложение для отслеживания ежедневного потребления воды. Clean Architecture, Provider, Firebase, SharedPreferences
 
 
 <h2>📫 Контакты</h2>
