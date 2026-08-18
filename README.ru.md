@@ -35,7 +35,7 @@
   
 <h2>🚀 Проекты</h2>
 
-**Flutter+Node.js** **[DAN](https://github.com/daniilpaschenko/dan-chat)** — приложение для обмена сообщениями в реальном времени с личными и групповыми чатами, статусами пользователей, индикаторами набора сообщения, push-уведомлениями и управлением группами. Clean Architecture, BLoC, Socket.IO, Node.js, MongoDB, Firebase
+**Flutter+Node.js** **[DAN](https://github.com/daniilpaschenko/dan-chat)** — приложение для обмена сообщениями в реальном времени с личными и групповыми чатами, статусами пользователей, индикаторами набора сообщения, push-уведомлениями и управлением группами. Clean Architecture, BLoC, Socket.IO, Hive, Dio, Node.js, MongoDB, Firebase
 
 **Flutter** **[MobiQuest](https://github.com/daniilpaschenko/mobiquest)** — мобильное приложение, помогающее Flutter-разработчикам изучать и закреплять знания с помощью коротких тематических тестов и краткой теории. Clean Architecture, BLoC, Hive, Dio
 
