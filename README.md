@@ -37,7 +37,7 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 
 <h2>🚀 Projects</h2>
 
-**Flutter+Node.js** **[DAN](https://github.com/daniilpaschenko/dan-chat)** — real-time messaging application with private and group chats, real-time statuses, typing indicators, push notifications, and group management. Clean Architecture, BLoC, Socket.IO, Node.js, MongoDB, Firebase
+**Flutter+Node.js** **[DAN](https://github.com/daniilpaschenko/dan-chat)** — real-time messaging application with private and group chats, real-time statuses, typing indicators, push notifications, and group management. Clean Architecture, BLoC, Socket.IO, Hive, Dio, Node.js, MongoDB, Firebase
 
 **Flutter** **[MobiQuest](https://github.com/daniilpaschenko/mobiquest)** — mobile app that helps Flutter developers learn and reinforce their knowledge through short topic-based quizzes and concise theory summaries. Clean Architecture, BLoC, Hive, Dio
 
