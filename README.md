@@ -8,10 +8,10 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 <h2>🛠️ Tech Stack</h2>
 
 ### 📱 Frontend
-**Flutter/Dart:** BLoC • Clean Architecture • Dio • Hive • go_router • get_it • injectable • freezed • json_serializable
+**Flutter/Dart:** BLoC • Clean Architecture • Dio • Hive • Flutter Secure Storage • go_router • get_it • injectable • freezed • json_serializable
 
 ### 🖥️ Backend
-**Node.js/Express:** MongoDB/Mongoose • JWT • Joi • Multer • Socket.IO
+**Node.js/Express:** MongoDB/Mongoose • JWT • Joi • Multer • bcryptjs • Socket.IO
 
 ### ☁️ Cloud & Services
 **Firebase:** Authentication • Cloud Messaging • Firebase services 
