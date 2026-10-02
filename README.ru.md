@@ -21,12 +21,12 @@
 - **Архитектура:** Clean Architecture, Client–Server Architecture
 - **Паттерны проектирования:** Repository Pattern
 - **Принципы разработки:** SOLID, KISS, DRY
-- **Управление состоянием:** BLoC, Provider
+- **Управление состоянием:** BLoC, Provider, Riverpod
 - **Внедрение зависимостей:** get_it, injectable
 - **Навигация:** go_router
 - **Сетевое взаимодействие:** REST API, WebSockets, Dio
 - **Работа в реальном времени:** Socket.IO
-- **Локальное хранение:** Hive, SharedPreferences
+- **Локальное хранение:** Hive, SharedPreferences, Drift (SQLite)
 - **Безопасное хранение:** Flutter Secure Storage
 - **Backend:** Node.js, Express, MongoDB/Mongoose
 - **Аутентификация:** JWT, Firebase Authentication
