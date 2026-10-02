@@ -22,12 +22,12 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 - **Architecture:** Clean Architecture, Client–Server Architecture
 - **Design Patterns:** Repository Pattern
 - **Design Principles:** SOLID, KISS, DRY
-- **State Management:** BLoC, Provider
+- **State Management:** BLoC, Provider, Riverpod
 - **Dependency Injection:** get_it, injectable
 - **Navigation:** go_router
 - **Networking:** REST API, WebSockets, Dio
 - **Real-time:** Socket.IO
-- **Local Storage:** Hive, SharedPreferences
+- **Local Storage:** Hive, SharedPreferences, Drift (SQLite)
 - **Secure Storage:** Flutter Secure Storage
 - **Backend:** Node.js, Express, MongoDB/Mongoose
 - **Authentication:** JWT, Firebase Authentication
