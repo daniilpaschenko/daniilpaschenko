@@ -23,7 +23,7 @@ Unit Testing • Widget Testing
 Git • GitHub Actions • Android App Signing • build_runner
 
 ### 🗺️ Integrations
-REST API Integration • Push Notifications • Payment Integration
+REST API Integration • Push Notifications
 
 
 ## 💡 Technical Skills
