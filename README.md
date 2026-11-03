@@ -5,34 +5,45 @@
 <p>I'm a passionate Flutter developer continuously improving my skills and building cross-platform applications 📱<br>
 Currently building my portfolio and learning new technologies every day 🙂</p>
 
-<h2>🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
 ### 📱 Frontend
-**Flutter/Dart:** BLoC • Clean Architecture • Dio • Hive • Flutter Secure Storage • go_router • get_it • injectable • freezed • json_serializable
+**Flutter/Dart:** BLoC • Provider • Riverpod • Clean Architecture • Dio • Retrofit • Hive • SharedPreferences • Drift (SQLite) • Flutter Secure Storage • go_router • get_it • injectable • freezed • json_serializable • WebSockets
 
 ### 🖥️ Backend
-**Node.js/Express:** MongoDB/Mongoose • JWT • Joi • Multer • bcryptjs • Socket.IO
+**Node.js/Express (Basic Knowledge):** MongoDB/Mongoose • JWT • Joi • Multer • Socket.IO
 
 ### ☁️ Cloud & Services
-**Firebase:** Authentication • Cloud Messaging • Firebase services 
+**Firebase:** Authentication • Cloud Messaging • Firebase Services
+
+### 🧪 Testing
+Unit Testing • Widget Testing
+
+### ⚙️ CI/CD & Tools
+Git • GitHub Actions • Android App Signing • build_runner
+
+### 🗺️ Integrations
+REST API Integration • Push Notifications • Payment Integration
 
 
-<h2>💡 Technical Skills</h2>
+## 💡 Technical Skills
 
 - **Architecture:** Clean Architecture, Client–Server Architecture
-- **Design Patterns:** Repository Pattern
 - **Design Principles:** SOLID, KISS, DRY
 - **State Management:** BLoC, Provider, Riverpod
 - **Dependency Injection:** get_it, injectable
 - **Navigation:** go_router
-- **Networking:** REST API, WebSockets, Dio
+- **Networking:** REST API, WebSockets, Dio, Retrofit
 - **Real-time:** Socket.IO
 - **Local Storage:** Hive, SharedPreferences, Drift (SQLite)
 - **Secure Storage:** Flutter Secure Storage
-- **Backend:** Node.js, Express, MongoDB/Mongoose
+- **Backend:** Node.js, Express, MongoDB/Mongoose (Basic Knowledge)
 - **Authentication:** JWT, Firebase Authentication
 - **Code Generation:** build_runner, freezed, json_serializable
+- **Testing:** Unit Testing, Widget Testing
 - **Notifications:** Firebase Cloud Messaging, Local Notifications
+- **CI/CD & Tools:** Git, GitHub Actions, Android App Signing
+- **UI Development:** Responsive UI, Figma-to-Flutter Implementation
 
 
 <h2>🚀 Projects</h2>
