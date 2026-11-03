@@ -5,33 +5,45 @@
 <p>Я увлеченный Flutter-разработчик, постоянно совершенствующий свои навыки и создающий кроссплатформенные приложения 📱<br>
 Сейчас активно развиваю портфолио и каждый день изучаю новые технологии 🙂</p>
 
-<h2>🛠️ Технологический Стек</h2>
+## 🛠️ Технологический стек
 
 ### 📱 Frontend
-**Flutter/Dart:** BLoC • Clean Architecture • Dio • Hive • Flutter Secure Storage • go_router • get_it • injectable • freezed • json_serializable
+**Flutter/Dart:** BLoC • Provider • Riverpod • Clean Architecture • Dio • Retrofit • Hive • SharedPreferences • Drift (SQLite) • Flutter Secure Storage • go_router • get_it • injectable • freezed • json_serializable • WebSockets
 
 ### 🖥️ Backend
-**Node.js/Express:** MongoDB/Mongoose • JWT • Joi • Multer • bcryptjs • Socket.IO
+**Node.js/Express (базовые знания):** MongoDB/Mongoose • JWT • Joi • Multer • Socket.IO
 
-### ☁️ Облачные сервисы
-**Firebase:** Authentication • Cloud Messaging • Firebase services
+### ☁️ Облачные технологии и сервисы
+**Firebase:** Authentication • Cloud Messaging • Firebase Services
 
-<h2>💡 Технические Навыки</h2>
+### 🧪 Тестирование
+Unit-тестирование • Widget-тестирование
 
-- **Архитектура:** Clean Architecture, Client–Server Architecture
-- **Паттерны проектирования:** Repository Pattern
-- **Принципы разработки:** SOLID, KISS, DRY
-- **Управление состоянием:** BLoC, Provider, Riverpod
-- **Внедрение зависимостей:** get_it, injectable
+### ⚙️ CI/CD и инструменты
+Git • GitHub Actions • Подпись Android-приложений • build_runner
+
+### 🗺️ Интеграции
+Интеграция REST API • Push-уведомления
+
+
+## 💡 Технические навыки
+
+- **Архитектура:** Clean Architecture, клиент-серверная архитектура
+- **Принципы проектирования:** SOLID, KISS, DRY
+- **Управление состоянием (State Management):** BLoC, Provider, Riverpod
+- **Внедрение зависимостей (Dependency Injection):** get_it, injectable
 - **Навигация:** go_router
-- **Сетевое взаимодействие:** REST API, WebSockets, Dio
-- **Работа в реальном времени:** Socket.IO
-- **Локальное хранение:** Hive, SharedPreferences, Drift (SQLite)
-- **Безопасное хранение:** Flutter Secure Storage
-- **Backend:** Node.js, Express, MongoDB/Mongoose
+- **Работа с сетью:** REST API, WebSockets, Dio, Retrofit
+- **Real-time:** Socket.IO
+- **Локальное хранилище:** Hive, SharedPreferences, Drift (SQLite)
+- **Безопасное хранение данных:** Flutter Secure Storage
+- **Backend:** Node.js, Express, MongoDB/Mongoose (базовые знания)
 - **Аутентификация:** JWT, Firebase Authentication
 - **Генерация кода:** build_runner, freezed, json_serializable
-- **Уведомления:** Firebase Cloud Messaging, Local Notifications
+- **Тестирование:** Unit-тестирование, Widget-тестирование
+- **Уведомления:** Firebase Cloud Messaging, локальные уведомления
+- **CI/CD и инструменты:** Git, GitHub Actions, подпись Android-приложений
+- **Разработка UI:** Адаптивный интерфейс, реализация дизайна из Figma во Flutter
   
 <h2>🚀 Проекты</h2>
 
