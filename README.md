@@ -8,7 +8,7 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 ## 🛠️ Tech Stack
 
 ### 📱 Frontend
-**Flutter/Dart:** BLoC • Provider • Riverpod • Clean Architecture • Dio • Retrofit • Hive • SharedPreferences • Drift (SQLite) • Flutter Secure Storage • go_router • get_it • injectable • freezed • json_serializable • WebSockets
+**Flutter/Dart:** BLoC • Provider • Riverpod • Clean Architecture • Dio • Retrofit • Hive • SharedPreferences • Drift (SQLite) • Flutter Secure Storage • go_router • get_it • injectable • freezed • json_serializable
 
 ### 🖥️ Backend
 **Node.js/Express (Basic Knowledge):** MongoDB/Mongoose • JWT • Joi • Multer • Socket.IO
@@ -19,31 +19,14 @@ Currently building my portfolio and learning new technologies every day 🙂</p>
 ### 🧪 Testing
 Unit Testing • Widget Testing
 
-### ⚙️ CI/CD & Tools
-Git • GitHub Actions • Android App Signing • build_runner
+### ⚙️ Tools & Practices
+Git • GitHub Actions • Android App Signing • Repository Pattern • SOLID • KISS • DRY • Dependency Injection • Code Generation • Responsive UI
 
-### 🗺️ Integrations
-REST API Integration • Push Notifications
+### 🔌 Integrations
+REST API • WebSockets • Push Notifications
 
-
-## 💡 Technical Skills
-
-- **Architecture:** Clean Architecture, Client–Server Architecture
-- **Design Principles:** SOLID, KISS, DRY
-- **State Management:** BLoC, Provider, Riverpod
-- **Dependency Injection:** get_it, injectable
-- **Navigation:** go_router
-- **Networking:** REST API, WebSockets, Dio, Retrofit
-- **Real-time:** Socket.IO
-- **Local Storage:** Hive, SharedPreferences, Drift (SQLite)
-- **Secure Storage:** Flutter Secure Storage
-- **Backend:** Node.js, Express, MongoDB/Mongoose (Basic Knowledge)
-- **Authentication:** JWT, Firebase Authentication
-- **Code Generation:** build_runner, freezed, json_serializable
-- **Testing:** Unit Testing, Widget Testing
-- **Notifications:** Firebase Cloud Messaging, Local Notifications
-- **CI/CD & Tools:** Git, GitHub Actions, Android App Signing
-- **UI Development:** Responsive UI, Figma-to-Flutter Implementation
+### 🤖 Android
+**Kotlin (Basic Knowledge):** Kotlin Fundamentals • Coroutines
 
 
 <h2>🚀 Projects</h2>
