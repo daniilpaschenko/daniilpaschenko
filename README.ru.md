@@ -8,7 +8,7 @@
 ## 🛠️ Технологический стек
 
 ### 📱 Frontend
-**Flutter/Dart:** BLoC • Provider • Riverpod • Clean Architecture • Dio • Retrofit • Hive • SharedPreferences • Drift (SQLite) • Flutter Secure Storage • go_router • get_it • injectable • freezed • json_serializable • WebSockets
+**Flutter/Dart:** BLoC • Provider • Riverpod • Clean Architecture • Dio • Retrofit • Hive • SharedPreferences • Drift (SQLite) • Flutter Secure Storage • go_router • get_it • injectable • freezed • json_serializable
 
 ### 🖥️ Backend
 **Node.js/Express (базовые знания):** MongoDB/Mongoose • JWT • Joi • Multer • Socket.IO
@@ -19,31 +19,14 @@
 ### 🧪 Тестирование
 Unit-тестирование • Widget-тестирование
 
-### ⚙️ CI/CD и инструменты
-Git • GitHub Actions • Подпись Android-приложений • build_runner
+### ⚙️ Инструменты и практики
+Git • GitHub Actions • Подпись Android-приложений • Паттерн «Репозиторий» (Repository Pattern) • SOLID • KISS • DRY • Внедрение зависимостей (Dependency Injection) • Генерация кода • Адаптивный интерфейс (Responsive UI)
 
-### 🗺️ Интеграции
-Интеграция REST API • Push-уведомления
+### 🔌 Интеграции
+REST API • WebSockets • Push-уведомления
 
-
-## 💡 Технические навыки
-
-- **Архитектура:** Clean Architecture, клиент-серверная архитектура
-- **Принципы проектирования:** SOLID, KISS, DRY
-- **Управление состоянием (State Management):** BLoC, Provider, Riverpod
-- **Внедрение зависимостей (Dependency Injection):** get_it, injectable
-- **Навигация:** go_router
-- **Работа с сетью:** REST API, WebSockets, Dio, Retrofit
-- **Real-time:** Socket.IO
-- **Локальное хранилище:** Hive, SharedPreferences, Drift (SQLite)
-- **Безопасное хранение данных:** Flutter Secure Storage
-- **Backend:** Node.js, Express, MongoDB/Mongoose (базовые знания)
-- **Аутентификация:** JWT, Firebase Authentication
-- **Генерация кода:** build_runner, freezed, json_serializable
-- **Тестирование:** Unit-тестирование, Widget-тестирование
-- **Уведомления:** Firebase Cloud Messaging, локальные уведомления
-- **CI/CD и инструменты:** Git, GitHub Actions, подпись Android-приложений
-- **Разработка UI:** Адаптивный интерфейс, реализация дизайна из Figma во Flutter
+### 🤖 Android
+**Kotlin (базовые знания):** Основы Kotlin • Coroutines
   
 <h2>🚀 Проекты</h2>
 
